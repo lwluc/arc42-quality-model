@@ -1,0 +1,55 @@
+@startmindmap
+
+' https://quality.arc42.org/
+
+*[#lightgray] Example App
+
+ *[#lightgreen] [[https://quality.arc42.org/tag-reliable/ reliable]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/availability Availability]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/available-7-24-99 Available 7x24 with 99% uptime]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/mttr-12h Restored to fully functional state 12h after complete failure]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/predictability Predictability]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/new-features-introduct-no-bugs New Features Introduce No Bugs]]
+
+ *[#lightgreen] [[https://quality.arc42.org/tag-flexible/ flexible]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/adaptability Adaptability]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/luggage-routing Efficient change of business rules]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/independent-enhancement-of-subsystem Independent enhancement of subsystem]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/scalability Scalability]]
+
+ *[#lightgreen] [[https://quality.arc42.org/tag-efficient/ efficient]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/energy-efficiency Energy Efficiency]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/reduce-energy-consumption-with-new-version Reduce energy consumption with every new version]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/carbon-emission-efficiency Carbon Emission Efficiency]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/carbon-efficiency-save Save at least 20% of carbon emissions with every new version]]
+
+ *[#lightgreen] [[https://quality.arc42.org/tag-usable/ usable]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/accessibility Accessibility]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/compliance-to-wcag Compliance with WCA accessibility guidelines]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/ease-of-use Ease of Use]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/access-find-function-quickly Access find function in three seconds]]
+
+ *[#lightgreen] [[https://quality.arc42.org/tag-safe/ safe]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/compliance Compliance]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/compliance-with-ui-styleguide Compliance with UI styleguide]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/operational-constraint Operational constraint]]
+
+ *[#lightgreen] [[https://quality.arc42.org/tag-secure/ secure]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/authenticity Authenticity]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/authenticity-of-digital-document Authenticity of a digital document]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/confidentiality Confidentiality]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/encrypted-storage Encrypted storage]]
+
+ *[#lightgreen] [[https://quality.arc42.org/tag-suitable/ suitale]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/cost Cost]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/budget-constraint-library-update Budget constrained library update]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/cycle-time Cycle time]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/test-with-path-coverage-30min Test with path coverage in 30min]]
+
+ *[#lightgreen] [[https://quality.arc42.org/tag-operable/ operable]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/traceability Traceability]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/every-data-modification-is-logged Every data modification is logged]]
+  *[#lightblue] [[https://quality.arc42.org/qualities/usability Usability]]
+   *[#FFBBCC] [[https://quality.arc42.org/requirements/usable-with-gloves Usable With Gloves]]
+
+@endmindmap
